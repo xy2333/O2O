@@ -18,8 +18,8 @@
 
 
 ## 文档目录
-	- code
-	- result：模型及预测结果
 	- intruduction.pdf：详细介绍（配有图文）
+	- code：特征工程、模型
+	- result：模型及预测结果
 	- 成绩2.0.bmp：最终提交成绩
 	
