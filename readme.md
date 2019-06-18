@@ -21,6 +21,5 @@
 	- code
 	- result：模型及预测结果
 	- intruduction.pdf：详细介绍（配有图文）
-
-
-![flag.png](https://github.com/wepe/O2O-Coupon-Usage-Forecast/blob/master/flag.png)
+	- 成绩2.0.bmp：最终提交成绩
+	
