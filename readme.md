@@ -23,3 +23,6 @@
 	- result：模型及预测结果
 	- 成绩.bmp：最终提交成绩
 	
+	
+## 项目链接
+https://github.com/xy2333/O2O/edit/master/readme.md
