@@ -25,4 +25,4 @@
 	
 	
 ## 项目链接
-https://github.com/xy2333/O2O/edit/master/readme.md
+https://github.com/xy2333/O2O
